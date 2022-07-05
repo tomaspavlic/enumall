@@ -1,4 +1,5 @@
 # Enumall
+[![Go](https://github.com/tomaspavlic/enumall/actions/workflows/go.yml/badge.svg)](https://github.com/tomaspavlic/enumall/actions/workflows/go.yml)
 
 Enumall is a tool to automate the creation of all const values for given type (enum). 
 
